@@ -1,5 +1,12 @@
-# JavaScript-Canvas-Game
+# Asteroids JavaScript-Canvas-Game
 This game has been created for the purpose of assignment from the Programming for the web module.
+
+## What is included?
+The canvas game includes improvements such as:
+⋅⋅* Vectors (position, direction, angle, velocity, acceleration, forces)
+⋅⋅* In-Game Timer
+⋅⋅* States
+⋅⋅* Event Listeners
 
 ## Want to play?
 This game is hosted on the server at Aberystwyth University and it is available at this link:
