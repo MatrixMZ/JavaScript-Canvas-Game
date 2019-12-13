@@ -1,5 +1,6 @@
 # Asteroids JavaScript-Canvas-Game
-This game has been created for the purpose of assignment from the Programming for the web module.
+This game has been created for the purpose of assignment from the Programming for the Web module.
+This game includes plain JavaScript files with objects, usability of canvas and connection with database (PostgreeSQL) by PHP files.
 
 ## What is included?
 The canvas game includes improvements such as:
